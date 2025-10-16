@@ -38,6 +38,4 @@ Si deseas contribuir:
 3. Realiza tus cambios y abre un *pull request*.
 4. Describa claramente qué parte modificaste o qué agregaste.
 
----
 
-¡Mucho éxito con el aprendizaje y el desarrollo del videojuego! 🚀  
