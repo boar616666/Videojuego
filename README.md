@@ -10,6 +10,7 @@ Este repositorio contiene los tutoriales para el desarrollo del videojuego, en l
 |---|--------|--------|
 | 1 | Tutorial 1 | [Ver documento](https://docs.google.com/document/d/1oNsN8GJl57RXnnerdmPhoGkZSlIC5PkuJ5Z8YN9i-AQ/edit?usp=drive_link) |
 | 2 | Tutorial 2 | [Ver documento](https://docs.google.com/document/d/1TB-44XNuhh3LdK74w5rgd_J-F3Em-7ztSOk3QoRU6t8/edit?usp=sharing) |
+| 3 | Tutorial 3 | [Ver documento](https://drive.google.com/file/d/1sfd7KBUdC7CTqjpBts2AhOO86_6LZ9cW/view?usp=sharing) |
 
 ---
 
