@@ -1,10 +1,10 @@
-# 🎮 Videojuego — Tutoriales
+#  Videojuego — Tutoriales
 
 Este repositorio contiene los tutoriales para el desarrollo del videojuego, en los que se explica paso a paso diversos aspectos de la creación, lógica y estructura.
 
 ---
 
-## 📄 Tutoriales
+##  Tutoriales
 
 | # | Título | Enlace |
 |---|--------|--------|
@@ -15,6 +15,7 @@ Este repositorio contiene los tutoriales para el desarrollo del videojuego, en l
 | 5 | Tutorial 5 | [Ver documento]() |
 | 6 | Tutorial 6 | [Ver documento]() |
 
+## Videos
 [Ver en Google Drive](https://drive.google.com/drive/folders/1NbnF8a1ojCFb43D2biCOIEK-yelyUD2b?usp=sharing)
 
 ---
